@@ -1,0 +1,9 @@
+{
+  "prefix": "",
+  "token": "",
+  "ownerID": "",
+  "intents": [
+    "GUILDS",
+    "GUILD_MESSAGES"
+  ]
+}

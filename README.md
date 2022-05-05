@@ -1,0 +1,1 @@
+Just a plain and simple bot template written in TypeScript. It'll dynamically load any commands written in the commands folder. Contains support for both slash commands and text commands.
